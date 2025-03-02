@@ -36,3 +36,11 @@
     /* Fonts */
     --mainFont: "Roboto", serif;
 }
+
+main {
+    min-height: 100vh;
+}
+
+main .grid-imgs {
+    width: 10em;
+}
