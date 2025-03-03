@@ -8,6 +8,7 @@ Projeto de Frontend do site <a href="https://roadmap.sh/">roadmap.sh</a>
 * [Sobre o Projeto](#about)
 * [Habilidades Necessárias](#abilities)
 * [Requisitos Chave](#key-requirements)
+* [Links Úteis](#links)
 * [Créditos](#credits)
 
 
@@ -43,7 +44,7 @@ Requisito | Explicação
 **Responsive Design** | Entender o _grid_ a ponto de torná-lo **resposivo** em diferentes tamanhos de tela
 **Alignment and Spacing** | Explorar uma forma de alinhar e espaçar os elementos do _grid_
 
-<!--
+
 <h1 id="links"> Links Úteis </h1>
 
 
@@ -51,11 +52,8 @@ A seção abaixo foi adicionada para caso queira verificar algum conteúdo de es
 
 *Tipo do Estudo* | Nome do Artigo
 :---------: | :------:
-**HTML: forms** | <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form">Your first form</a> <br> <a href="https://www.w3schools.com/html/html_forms.asp">HTML Forms</a>
-**CSS (and others)** | <a href="https://www.w3schools.com/cssref/css3_pr_clip-path.php">CSS clip-path Property</a> <br> <a href="https://www.youtube.com/watch?v=SKU2gExpkPI&t=194s"> How to make Circular Progress Bar in HTML CSS & JavaScript | Skills Bar </a>
-**git** | <a href="https://github.com/github/docs/blob/main/content/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.md">basic-writing-and-formatting-syntax.md</a>
-**roadmap.sh** | O link do projeto pode ser encontrado <a href="https://roadmap.sh/projects/accessible-form-ui">aqui</a>
--->
+**CSS** | <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid Layout Guide</a>
+**roadmap.sh** | O link do projeto pode ser encontrado <a href="https://roadmap.sh/projects/image-grid">aqui</a>
 
 <h1 id="credits"> Créditos </h1>
 
