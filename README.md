@@ -8,6 +8,7 @@ Projeto de Frontend do site <a href="https://roadmap.sh/">roadmap.sh</a>
 * [Sobre o Projeto](#about)
 * [Habilidades Necessárias](#abilities)
 * [Requisitos Chave](#key-requirements)
+* [Pontos Importantes](#key-points)
 * [Links Úteis](#links)
 * [Créditos](#credits)
 
@@ -43,6 +44,12 @@ Requisito | Explicação
 **Grid Structure** | Entender os fundamentos do **_CSS Grid_**
 **Responsive Design** | Entender o _grid_ a ponto de torná-lo **resposivo** em diferentes tamanhos de tela
 **Alignment and Spacing** | Explorar uma forma de alinhar e espaçar os elementos do _grid_
+
+
+<h1 id="key-points"> Pontos Importantes </h1>
+
+Vale resaltar alguns pontos importantes, de estudo, ao decorrer do projeto:
+* A dificuldade inicial seria como "encaixar" as imagens nas suas respectivas posições. A forma de se fazer isso é usando o `grid-template-columns: [name] size ... ...`;
 
 
 <h1 id="links"> Links Úteis </h1>
