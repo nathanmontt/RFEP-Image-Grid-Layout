@@ -32,6 +32,7 @@ Para futuras <em>features</em>, alguns opções serão levadas em consideração
 :---------: | :------:
 **Futuro** | De acordo com o próprio site, o projeto terá alterações mais a frente
 **Imagens** | Lembrar de adicionar a tela do projeto, já que neste o _deploy_ **não será feito**
+**Responsividade** | Adicionar responsividade ao projeto
 
 
 <h1 id="key-requirements"> Requisitos Chave </h1>
